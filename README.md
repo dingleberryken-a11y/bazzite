@@ -1,4 +1,3 @@
-<h1>TEST</h1>
 <p align="center">
   <a href="https://bazzite.gg/">
     <picture>
